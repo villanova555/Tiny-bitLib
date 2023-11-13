@@ -7,7 +7,7 @@
   "Tinybit.RGB_Car_Big2|block": "ヘッドライト2|赤 %value1|緑 %value2|青 %value3",
   "Tinybit.Music_Car|block": "音楽再生|%index",
   "Tinybit.Voice_Sensor|block": "マイク検知",
-  "Tinybit.Line_Sensor|block": "ラインセンサー|位置 %direct|検出値 %value",
+  "Tinybit.Line_Sensor|block": "ラインセンサー|位置 %direct|検出 %value",
   "Tinybit.CarCtrl|block": "車の制御|%index",
   "Tinybit.CarCtrlSpeed|block": "車速|%index|速度 %speed",
   "Tinybit.CarCtrlSpeed2|block": "車速2|%index|左モーター %speed1|右モーター %speed2",
@@ -20,10 +20,10 @@
   "Tinybit.enColor.Pinkish|block": "ピンク",
   "Tinybit.enColor.Yellow|block": "黄",
   
-  "Tinybit.enPos.LeftState|block": "ラインセンサー左値",
-  "Tinybit.enPos.RightState|block": "ラインセンサー右値",
-  "Tinybit.enLineState.White|block": "白線を検知",
-  "Tinybit.enLineState.Black|block": "黒線を検知",
+  "Tinybit.enPos.LeftState|block": "左",
+  "Tinybit.enPos.RightState|block": "右",
+  "Tinybit.enLineState.White|block": "白線",
+  "Tinybit.enLineState.Black|block": "黒線",
 
   
   "Tinybit.CarState.Car_Run|block": "前進",
