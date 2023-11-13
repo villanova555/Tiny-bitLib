@@ -2,7 +2,7 @@
 
   "Tinybit.Ultrasonic_Car|block": "超音波センサー(cm)",
   "Tinybit.Ultrasonic_CarV2|block": "microbit|V2|超音波センサー(cm)",
-  "Tinybit.RGB_Car_Program|block": "フルカラーLED",
+  "Tinybit.RGB_Car_Program|block": "後部LED",
   "Tinybit.RGB_Car_Big|block": "ヘッドライト|色 %value",
   "Tinybit.RGB_Car_Big2|block": "ヘッドライト2|赤 %value1|緑 %value2|青 %value3",
   "Tinybit.Music_Car|block": "音楽再生|%index",
