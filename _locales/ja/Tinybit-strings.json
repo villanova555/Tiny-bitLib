@@ -11,7 +11,7 @@
   "Tinybit.CarCtrl|block": "車の制御|%index",
   "Tinybit.CarCtrlSpeed|block": "車速|%index|速度 %speed",
   "Tinybit.CarCtrlSpeed2|block": "車速2|%index|左モーター %speed1|右モーター %speed2",
-  "Tinybit.enColor.OFF|block": "黒",
+  "Tinybit.enColor.OFF|block": "消",
   "Tinybit.enColor.Red|block": "赤",
   "Tinybit.enColor.Green|block": "緑",
   "Tinybit.enColor.Blue|block": "青",
