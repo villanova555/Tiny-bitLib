@@ -7,7 +7,7 @@
   "Tinybit.RGB_Car_Big2|block": "ヘッドライト2|赤 %value1|緑 %value2|青 %value3",
   "Tinybit.Music_Car|block": "音楽再生|%index",
   "Tinybit.Voice_Sensor|block": "マイク検知",
-  "Tinybit.Line_Sensor|block": " | %direct|が %value",
+  "Tinybit.Line_Sensor|block": " | %direct|ラインセンサーが %value",
   "Tinybit.CarCtrl|block": "車の制御|%index",
   "Tinybit.CarCtrlSpeed|block": "車速|%index|速度 %speed",
   "Tinybit.CarCtrlSpeed2|block": "車速2|%index|左モーター %speed1|右モーター %speed2",
