@@ -12,6 +12,7 @@ MIT
 (The metadata above is needed for package search.)
 
 ーーーーーー
+
 本リポジトリは、YahboomTechnologyが公開しているTiny-bitLibをベースに、日本語環境でMakeCodeを利用する学習者向けにブロック名称を日本語化したものです。
 元の制御プログラムを尊重し、主として日本語ローカライズ部分を変更しています。
 Tiny:bitを使ったプログラミング学習や、子ども向け講習での利用を想定しています。
